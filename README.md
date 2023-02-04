@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MaikeruDev</h1>
 <h3 align="center">A passionate developer from Austria</h3>
 
-- 🔭 I’m currently working on [Oni-Cards](https://github.com/MaikeruDev/Oni-Cards)
+- 🔭 I’m currently working on [Nebula](https://github.com/MaikeruDev/Nebula)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaikeruDev/](https://github.com/MaikeruDev/)
 
