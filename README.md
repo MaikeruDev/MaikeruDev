@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nebula](https://github.com/MaikeruDev/Nebula)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/MaikeruDev?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/MaikeruDev?tab=repositories)
 
 - 📫 How to reach me **michael@prietl.com**
 
