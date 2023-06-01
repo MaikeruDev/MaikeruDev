@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MaikeruDev</h1>
 <h3 align="center">A passionate developer from Austria</h3>
 
-- 🔭 I’m currently working on [Nebula](https://github.com/MaikeruDev/Nebula)
+- 🔭 I’m currently working on [SnippetSphere](https://github.com/MaikeruDev/SnippetSphere)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/MaikeruDev?tab=repositories)
 
