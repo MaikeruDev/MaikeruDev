@@ -38,8 +38,12 @@ I'm always working on something! Most recently, I have been focusing on a few we
  
 ## &#x1f4c8; My GitHub Stats
 
-[![MaikeruDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikeruDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![MaikeruDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikeruDev&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikeruDev&size_weight=0.5&count_weight=0.5)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaikeruDev&rank_icon=github&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikeruDev&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 ## 📫 Contact
 
